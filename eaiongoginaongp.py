@@ -1,7 +1,6 @@
 function {
-    agoiabngn agpne
+    agoiabngn 
 }
-
 function { 
     gejabgoeaibobn
 }
